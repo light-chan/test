@@ -6,7 +6,7 @@
 
 ## 2 주차 과제 (2020.05.28)
 
-- [ 수족관 인공 지능 기초 수학 ] ()
+- [ 수족관 인공 지능 기초 수학 ](https://nbviewer.jupyter.org/github/light-chan/test/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
 
 ## 3 주차 과제 (2020.06.04)
 
