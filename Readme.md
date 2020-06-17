@@ -14,4 +14,4 @@
 
 ## 4주차 과제 (2020.06.11)
 
-- [ 딥 러닝 용어 정리, 암호화 코딩, 딥 러닝 순 전파 & 역 전파 계산 ] ()
+- [ 딥 러닝 용어 정리, 암호화 코딩, 딥 러닝 순 전파 & 역 전파 계산 ](https://github.com/light-chan/gj-assignments-guide/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
